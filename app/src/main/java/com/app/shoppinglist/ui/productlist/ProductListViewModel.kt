@@ -1,11 +1,10 @@
 package com.app.shoppinglist.ui.productlist
 
-import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import com.app.shoppinglist.data.ProductItem
 import com.app.shoppinglist.data.ShoppingUnit
 
-class ProductListViewModel( savedStateHandle: SavedStateHandle) : ViewModel() {
+class ProductListViewModel() : ViewModel() {
     val productList = listOf(
         ProductItem(id = 1, name = "Elma", price = 2.0, quantity = 0, unit = ShoppingUnit.KG),
         ProductItem(id = 2, name = "Şeftali", price = 5.0, quantity = 0, unit = ShoppingUnit.KG),
