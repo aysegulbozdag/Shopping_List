@@ -1,4 +1,4 @@
-package com.app.shoppinglist.ui.ui.productlist
+package com.app.shoppinglist.ui.productlist
 
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel

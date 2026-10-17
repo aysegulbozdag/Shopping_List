@@ -1,4 +1,4 @@
-package com.app.shoppinglist.ui.ui.productlist
+package com.app.shoppinglist.ui.productlist
 
 import android.widget.Toast
 import androidx.compose.foundation.layout.Row
@@ -17,8 +17,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.app.shoppinglist.ui.ui.theme.ShoppingListTheme
-import com.app.shoppinglist.ui.ui.totalAmount
+import com.app.shoppinglist.ui.theme.ShoppingListTheme
 import kotlinx.coroutines.launch
 
 @Composable
