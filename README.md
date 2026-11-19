@@ -14,7 +14,7 @@ Compose'daki temel konuları pratik etmek için yaptım. Ticari bir hedefi yok.
 | `rememberCoroutineScope` | [ProductListScreen] |
 | State hoisting | [ProductListScreen] |
 | `Modifier` (padding, fillMaxWidth...) | Her yerde |
-| [ViewModel] | [ProductListViewModel] |
+| ViewModel | [ProductListViewModel] |
 
 ## Ekran görüntüleri
 <p align="center">
